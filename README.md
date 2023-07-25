@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com">
-    <img src="https://github.com/jaideepkathiresan/Sorting-algorithms-in-C/blob/main/IMG-20230107-WA0009.jpg?raw=true" alt="Banner Photo" width="300">
+    <img src="https://github.com/jaideepkathiresan/Sorting-algorithms-in-C/blob/main/IMG-20230107-WA0009.jpg?raw=true" alt="Banner Photo" width="200">
   </a>
 </p>
 
