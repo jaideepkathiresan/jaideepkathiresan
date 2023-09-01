@@ -6,7 +6,7 @@
 <p>
 - 🔭 I’m currently working on **Machine learning and data analysis**
   
-- 🌱 I’m currently learning **Python, Data analytics, and Machine Learning**
+- 🌱 I’m currently learning **Data analytics, and Machine Learning**
   
 - 🤝 I’m looking for help with **Machine learning**
   
