@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Jaideep Vishnu Kathiresan</h1>
 <h3 align="center">Finding Fun in Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU">
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p>
 </p>
 <h3 align="left">Connect with me:</h3>
