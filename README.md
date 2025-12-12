@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jaideep Vishnu Kathiresan</h1>
-<h3 align="center">I ask computers to do things, they sometimes listen</h3>
+<h3 align="center">I turn ideas into code, and computers into reluctant collaborators</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaideepkathiresan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jvk7557@gmail.com) 
