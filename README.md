@@ -10,6 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=jaideepkathiresan&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jaideepkathiresan&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaideepkathiresan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Metrics](https://metrics.lecoq.io/jaideepkathiresan?template=classic&base=header,activity,community,repositories&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaideepkathiresan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
