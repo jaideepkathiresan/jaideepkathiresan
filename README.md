@@ -17,10 +17,7 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=jaideepkathiresan&row=1&theme=monokai)
 
-### 🔝 Top Contributed Repo
-![Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=jaideepkathiresan&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=jaideepkathiresan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
